@@ -1,5 +1,3 @@
-# Petunjuk-algoritma-kel6
-
 Anda sangat benar. Dalam format tabel yang saya berikan, referensi ke "Bagian II" dan "Bagian III" tidak jelas karena tidak ada label judul yang menunjukkan awal dan akhir dari setiap bagian tersebut di dalam tabel.
 Saya akan memperbaiki tabel flowchart berbasis teks ini sekali lagi, dengan menambahkan judul yang jelas untuk setiap bagian (II. Diagnosa Mesin Tidak Mau Menyala dan III. Diagnosa Mesin Panas Berlebih), sehingga referensi alur "Lanjut ke Bagian..." menjadi sangat mudah dilacak.
 🛠️ Flowchart Diagnosa Kerusakan Mobil (Diperbaiki & Dilengkapi Label)
